@@ -103,7 +103,7 @@ This step ensured the accuracy and reliability of the analysis.
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard-screeenshot.png)
+![Dashboard](screenshots/dashboard-screenshot.png)
 
 ---
 
