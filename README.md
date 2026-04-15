@@ -1,4 +1,4 @@
-# Data Professional Survey Dashboard (Power BI)
+# Data Professional Survey Dashboard 
 
 ## Overview
 This project analyzes survey data from data professionals to uncover insights about salaries, job roles, programming languages, and job satisfaction.
@@ -111,3 +111,4 @@ This step ensured the accuracy and reliability of the analysis.
 1. Download the `.pbix` file from the repository
 2. Open it in Power BI Desktop
 3. Explore the interactive dashboard
+
